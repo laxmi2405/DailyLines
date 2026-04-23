@@ -1,5 +1,6 @@
 # DailyLines – Blogging Web Application
 🌐 Live Demo:https://dailylines.onrender.com
+
 A full-stack blogging platform built using Django that allows users to create, interact with, and explore blog content.
 
 ---
