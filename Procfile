@@ -1,1 +1,1 @@
-web: gunicorn dailyLines.wsgi
+web: gunicorn dailylines.wsgi
